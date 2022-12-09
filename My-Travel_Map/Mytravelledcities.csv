@@ -1,0 +1,48 @@
+City,Country,Region,Type,Lat,lon
+Dhaka,Bangladesh,Asia,Home,23.7000,90.3750
+Khulna,Bangladesh,Asia,Travel,22.8167,89.5500
+Mymensingh,Bangladesh,Asia,Travel,24.7539,90.4031
+Chittagong,Bangladesh,Asia,Travel,22.3304,91.8326
+Cox's Bazar,Bangladesh,Asia,Travel,21.5225,91.9583
+Sylhet,Bangladesh,Asia,Travel,24.8978,91.8714
+Comilla,Bangladesh,Asia,Travel,23.4500,91.2000
+Bagerhat District,Bangladesh,Asia,Travel,"22.65893651026704,",89.76745553
+Bandarban District,Bangladesh,Asia,Travel,"22.20212268907311,",92.21236699
+Saint Martins Island,Bangladesh,Asia,Travel,"20.623769775677474,",92.32279356
+Kathmandu,Nepal,Asia,Travel,27.7120,85.3130
+Pokhara,Nepal,Asia,Travel,28.2636,83.9724
+Chitwan District,Nepal,Asia,Travel,"27.58889251081144,",84.45941304
+Kolkata,India,Asia,Travel,22.5656,88.3702
+Agra,India,Asia,Travel,27.1800,78.0200
+Mumbai,India,Asia,Travel,18.9750,72.8258
+Delhi,India,Asia,Travel,"28.639038723885736,",77.20746567
+Jaipur,India,Asia,Travel,26.9210,75.7944
+Kuala Lumpur,Malaysia,Asia,Travel,"3.1597617814684846,",101.7110137
+Bangkok,Thailand,Asia,Travel,"13.753922998427736,",100.5016227
+Pattaya,Thailand,Asia,Travel,"12.924836095273756,",100.8815588
+Singapore,Singapore,Asia,Travel,"1.3544972445014267,",103.8662139
+Halifax,Canada,North America,Home,44.6462,-63.5736
+Toronto,Canada,North America,Home,43.6519,-79.3817
+Montreal,Canada,North America,Travel,45.5091,-73.5534
+Ottawa,Canada,North America,Travel,45.4204,-75.6924
+Quebec City,Canada,North America,Travel,46.8142,-71.2074
+Thunder Bay,Canada,North America,Travel,48.3822,-89.2461
+Winnipeg,Canada,North America,Travel,49.8994,-97.1392
+Saskatoon,Canada,North America,Travel,52.1333,-106.6833
+Edmonton,Canada,North America,Home,53.5445,-113.4909
+Calgary,Canada,North America,Travel,51.0473,-114.0580
+Banff,Canada,North America,Travel,51.1785,-115.5743
+Tobermory,Canada,North America,Travel,45.2523,-81.6662
+Cape Breton Regional Municipality,Canada,North America,Travel,46.1500,-60.1667
+New York,USA,North America,Travel,40.7130,-74.0072
+Los Angeles,USA,North America,Travel,34.0522,-118.2433
+San Francisco,USA,North America,Travel,"37.765965323731805,",-122.438357
+Mount Shasta,USA,North America,Travel,41.3144,-122.3114
+Las Vegas,USA,North America,Travel,36.1691,-115.1406
+Orlando,USA,North America,Travel,28.5383,-81.3789
+Miami,USA,North America,Travel,25.7751,-80.1947
+Atlanta,USA,North America,Travel,33.7485,-84.3915
+Chicago,USA,North America,Travel,41.8832,-87.6324
+Long Island,USA,North America,Travel,40.8078,-73.2582
+Jeddah,Saudi Arab,Middle East,Travel,21.5433,39.1728
+Medina,Saudi Arab,Middle East,Travel,24.4667,39.6000
